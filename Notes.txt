@@ -1,6 +1,0 @@
-What is variables?
-Ans : 
-Ex : int,float
-variable is a named memory container.
-What is a function?
-Ans : Function is a set of independed codes, that is for a specific task.
